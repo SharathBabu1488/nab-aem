@@ -3,4 +3,6 @@
     <filter root="/apps/nab/clientlibs"/>
     <filter root="/apps/nab/components"/>
     <filter root="/apps/nab/i18n"/>
+    <filter root="/apps/nab/page"/>
+    <filter root="/apps/nab/templates"/>
 </workspaceFilter>
